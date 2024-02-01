@@ -1,0 +1,82 @@
+body{
+background-color: blue;
+
+}
+
+
+
+
+.registration-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+
+}
+
+
+.heading {
+  text-align: center;
+  color:yellow;
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+}
+
+
+
+
+.form-body {
+  border-radius: 8px;
+ 
+  max-width: 500px;
+  width: 80%;
+  box-sizing: border-box;
+  padding: 40px;
+}
+
+.submit-button:hover {
+  background-color:  hsl(211, 100%, 79%);
+}
+
+
+
+
+.field-input {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  box-sizing: border-box;
+  border: 2px solid #ced4da;
+  border-radius: 4px;
+  font-size: 16px;
+  transition: border-color 0.3s;
+}
+
+
+
+
+
+
+.sign in {
+  margin-left: 15%;
+  background-color: red;
+  font-size: 20px;
+  
+}
+
+.submit-button {
+  width: 100%;
+  background-color: red;
+  color: yellow;
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+
+
+
